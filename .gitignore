@@ -1,6 +1,8 @@
 products/node_modules
 container/node_modules
 cart/node_modules
+node_modules
 products/dist
 container/dist
 cart/dist
+package-lock.json
